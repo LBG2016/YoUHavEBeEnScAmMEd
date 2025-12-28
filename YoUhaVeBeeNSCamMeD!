@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Oops</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+      font-size: 48px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  YOU HAVE BEEN SCAMMED
+</body>
+</html>
